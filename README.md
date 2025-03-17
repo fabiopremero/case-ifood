@@ -17,7 +17,7 @@ Este projeto contém um notebook (.ipynb) que realiza a análise dos dados do ca
 
    - Se o projeto estiver hospedado em um repositório Git, clone-o:
      ```bash
-     git clone <URL-do-repositório>
+     git clone git@github.com:fabiopremero/case-ifood.git
      ```
    - Ou baixe e extraia os arquivos do projeto e abra a pasta no VSCode.
 
